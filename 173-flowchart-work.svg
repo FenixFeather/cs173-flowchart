@@ -636,10 +636,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="629.56473"
-     inkscape:cy="470.3125"
+     inkscape:cx="602.47768"
+     inkscape:cy="496.3433"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="715"
@@ -840,7 +840,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="nodes"
-     transform="translate(0,-62.36218)">
+     transform="translate(0,-62.36218)"
+     sodipodi:insensitive="true">
     <path
        sodipodi:type="arc"
        style="fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5579)"
@@ -925,8 +926,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="text"
-     sodipodi:insensitive="true">
+     inkscape:label="text">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4179"
@@ -939,11 +939,12 @@
            x="100"
            y="505.71429"
            style="font-size:32px" /></flowRegion><flowPara
-         id="flowPara4185">NULL</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gill Sans MT;-inkscape-font-specification:Gill Sans MT">NULL</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(233.42188,-107.62786)"><flowRegion
+       transform="translate(231.42188,-107.62786)"><flowRegion
          id="flowRegion4181-2"><rect
            id="rect4183-1"
            width="85.714287"
@@ -951,7 +952,8 @@
            x="100"
            y="505.71429"
            style="font-size:32px" /></flowRegion><flowPara
-         id="flowPara4185-6">L</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gill Sans MT;-inkscape-font-specification:Gill Sans MT">L</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -963,7 +965,8 @@
            x="100"
            y="505.71429"
            style="font-size:32px" /></flowRegion><flowPara
-         id="flowPara4185-6-6">R</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">R</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -975,11 +978,12 @@
            x="100"
            y="505.71429"
            style="font-size:32px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2">L+R</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6-2"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">L+R</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(711.22656,-269.00398)"><flowRegion
+       transform="translate(713.22656,-269.00398)"><flowRegion
          id="flowRegion4181-2-5-8-9"><rect
            id="rect4183-1-7-9-5"
            width="85.714287"
@@ -987,10 +991,11 @@
            x="100"
            y="505.71429"
            style="font-size:32px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4">Lost</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6-2-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gill Sans MT;-inkscape-font-specification:Gill Sans MT">Lost</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-3"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:middle;text-align:center"
        transform="translate(698.97322,13.094238)"><flowRegion
          id="flowRegion4181-2-5-8-9-1"><rect
            id="rect4183-1-7-9-5-2"
@@ -998,11 +1003,12 @@
            height="52.857143"
            x="100"
            y="505.71429"
-           style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4-3">Confused</flowPara></flowRoot>    <flowRoot
+           style="font-size:20px;text-anchor:middle;text-align:center" /></flowRegion><flowPara
+         id="flowPara4185-6-6-2-4-3"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center">Confused</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-34"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:middle;text-align:center"
        transform="translate(700.11607,293.66567)"><flowRegion
          id="flowRegion4181-2-5-8-9-11"><rect
            id="rect4183-1-7-9-5-3"
@@ -1010,9 +1016,9 @@
            height="52.857143"
            x="100"
            y="505.71429"
-           style="font-size:32px" /></flowRegion><flowPara
+           style="font-size:32px;text-anchor:middle;text-align:center" /></flowRegion><flowPara
          id="flowPara4185-6-6-2-4-8"
-         style="font-size:23px">Got this!</flowPara></flowRoot>    <flowRoot
+         style="font-size:23px;-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center">Got this!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-3-7"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1024,7 +1030,8 @@
            x="100"
            y="505.71429"
            style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4-3-7">Went to lecture</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6-2-4-3-7"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Went to lecture</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-3-7-7"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1036,7 +1043,8 @@
            x="100"
            y="505.71429"
            style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4-3-7-1">Went to lecture</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6-2-4-3-7-1"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Went to lecture</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-3-7-9"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1048,7 +1056,8 @@
            x="100"
            y="505.71429"
            style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4-3-7-5">Did the reading</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6-2-4-3-7-5"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Did the reading</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-3-7-0"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1060,7 +1069,8 @@
            x="100"
            y="505.71429"
            style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4-3-7-6">Did the reading</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6-2-4-3-7-6"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Did the reading</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-3-7-02"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1072,7 +1082,8 @@
            x="100"
            y="505.71429"
            style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4-3-7-50">Self reflection</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6-2-4-3-7-50"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Self reflection</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-3-7-90"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1084,7 +1095,8 @@
            x="100"
            y="505.71429"
            style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4-3-7-3">Self reflection</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6-2-4-3-7-3"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Self reflection</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-3-7-8"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1096,7 +1108,8 @@
            x="100"
            y="505.71429"
            style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4-3-7-4">Self reflection</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6-2-4-3-7-4"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Self reflection</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-3-7-8-6"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1108,7 +1121,8 @@
            x="100"
            y="505.71429"
            style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4-3-7-4-6">Office hours</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6-2-4-3-7-4-6"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Office hours</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-3-7-8-6-1"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1120,7 +1134,8 @@
            x="100"
            y="505.71429"
            style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4-3-7-4-6-9">Office hours</flowPara></flowRoot>    <flowRoot
+         id="flowPara4185-6-6-2-4-3-7-4-6-9"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Office hours</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4179-2-8-1-7-3-7-8-6-6"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1132,5 +1147,6 @@
            x="100"
            y="505.71429"
            style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara4185-6-6-2-4-3-7-4-6-8">Office hours</flowPara></flowRoot>  </g>
+         id="flowPara4185-6-6-2-4-3-7-4-6-8"
+         style="-inkscape-font-specification:Gill Sans MT;font-family:Gill Sans MT;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Office hours</flowPara></flowRoot>  </g>
 </svg>
